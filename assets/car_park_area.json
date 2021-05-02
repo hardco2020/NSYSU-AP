@@ -45,14 +45,14 @@
     },
     {
       "fcmTopic": "P07",
-      "name": "活動中心前路橋下",
+      "name": "活動中心前路橋下（管停靠全家）",
       "imageUrl": "https://i.imgur.com/pS8opJN.png",
       "latitude": 22.628102,
       "longitude": 120.264429
     },
     {
       "fcmTopic": "P08",
-      "name": "蔣公行館後方路橋下",
+      "name": "蔣公行館後方路橋下(管停靠蔣公）",
       "imageUrl": "https://i.imgur.com/pS8opJN.png",
       "latitude": 22.627284,
       "longitude": 120.264324
